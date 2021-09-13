@@ -39,3 +39,9 @@
 body {
   color: grey;
 }
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
