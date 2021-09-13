@@ -1,0 +1,30 @@
+.hero {
+  display: flex;
+  padding-top: 100px;
+}
+
+.hero_copy h1 {
+  font-weight: 500;
+  line-height: 1.25;
+  color: black;
+  font-size: 48px;
+}
+
+.hero-form {
+  font-size: 20px;
+  padding-left: 75px;
+  padding-top: 30px;
+}
+
+.hero-input {
+  font-weight: 400;
+  line-height: 46px;
+}
+
+.email-input {
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  outline: 0;
+  margin-right: 20px;
+  width: 60%;
+}
