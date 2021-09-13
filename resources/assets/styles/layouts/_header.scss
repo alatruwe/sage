@@ -4,4 +4,23 @@
 
 .banner .nav a {
   @extend .nav-link;
+
+  color: grey;
+}
+
+.navbar {
+  display: flex;
+}
+
+.nav-primary {
+  display: flex;
+  text-decoration: none;
+}
+
+.brand {
+  color: #1371c8;
+}
+
+.nav-button {
+  line-height: 0px;
 }
